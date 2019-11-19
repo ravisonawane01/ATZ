@@ -1,0 +1,489 @@
+{
+  "ws": "combined_get",
+  "status": 1,
+  "message": "Success",
+  "top_selling_products": [
+    {
+      "id": "5602",
+      "name": "Brocade Dress Material with Dupatta",
+      "url": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/products/5d918bc70bd761569819591.jpg",
+      "quantity_from": "1",
+      "max_price": "699.00",
+      "min_price": "699.00",
+      "sales": "0",
+      "max_final_price": "856.00",
+      "min_final_price": "856.00",
+      "discount": "65",
+      "mrp": "2447"
+    },
+    {
+      "id": "5275",
+      "name": "Women Long Silk Gown ",
+      "url": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/products/5d8eed21e04b01569647905.jpg",
+      "quantity_from": "1",
+      "max_price": "499.00",
+      "min_price": "499.00",
+      "sales": "0",
+      "max_final_price": "611.00",
+      "min_final_price": "611.00",
+      "discount": "65",
+      "mrp": "1747"
+    },
+    {
+      "id": "4638",
+      "name": "Gulab new Kurti with  Plazzo  and  Dupatta ",
+      "url": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/products/5d84b852313591568979026.jpg",
+      "quantity_from": "1",
+      "max_price": "850.00",
+      "min_price": "850.00",
+      "sales": "0",
+      "max_final_price": "922.00",
+      "min_final_price": "922.00",
+      "discount": "65",
+      "mrp": "2635"
+    },
+    {
+      "id": "4800",
+      "name": "Denim jeans based with skinny fit jeans",
+      "url": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/products/5d89b70abb70f1569306378.jpg",
+      "quantity_from": "1",
+      "max_price": "749.00",
+      "min_price": "749.00",
+      "sales": "0",
+      "max_final_price": "825.00",
+      "min_final_price": "825.00",
+      "discount": "62",
+      "mrp": "2172"
+    },
+    {
+      "id": "6074",
+      "name": "Set of 8 Printed Banarsi Saree",
+      "url": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/products/5da06f2c5894f1570795308.jpg",
+      "quantity_from": "1",
+      "max_price": "1200.00",
+      "min_price": "1200.00",
+      "sales": "0",
+      "max_final_price": "1440.00",
+      "min_final_price": "1440.00",
+      "discount": "60",
+      "mrp": "3600"
+    },
+    {
+      "id": "5781",
+      "name": "HODDIE CAP T-SHIRT UPPER",
+      "url": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/products/5d95e50731ecc1570104583.jpeg",
+      "quantity_from": "1",
+      "max_price": "349.00",
+      "min_price": "349.00",
+      "sales": "0",
+      "max_final_price": "460.00",
+      "min_final_price": "460.00",
+      "discount": "60",
+      "mrp": "1152"
+    },
+    {
+      "id": "5409",
+      "name": "Denim Mens Jeans",
+      "url": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/products/5d8f32e08a4691569665760.jpg",
+      "quantity_from": "1",
+      "max_price": "650.00",
+      "min_price": "650.00",
+      "sales": "0",
+      "max_final_price": "767.00",
+      "min_final_price": "767.00",
+      "discount": "60",
+      "mrp": "1918"
+    },
+    {
+      "id": "5408",
+      "name": "Denim Mens Jeans",
+      "url": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/products/5d8f322b25c121569665579.jpg",
+      "quantity_from": "1",
+      "max_price": "650.00",
+      "min_price": "650.00",
+      "sales": "0",
+      "max_final_price": "699.00",
+      "min_final_price": "699.00",
+      "discount": "60",
+      "mrp": "1749"
+    },
+    {
+      "id": "5332",
+      "name": "Partywear Bangles for women & girls  ACUB 17",
+      "url": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/products/5d8f0725503c71569654565.jpg",
+      "quantity_from": "1",
+      "max_price": "120.00",
+      "min_price": "120.00",
+      "sales": "0",
+      "max_final_price": "144.00",
+      "min_final_price": "144.00",
+      "discount": "60",
+      "mrp": "360"
+    },
+    {
+      "id": "5112",
+      "name": "Partywear Necklace Set for Women And Girls AUCN114",
+      "url": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/products/5d8e14c46234b1569592516.jpg",
+      "quantity_from": "1",
+      "max_price": "160.00",
+      "min_price": "160.00",
+      "sales": "0",
+      "max_final_price": "190.00",
+      "min_final_price": "190.00",
+      "discount": "60",
+      "mrp": "475"
+    }
+  ],
+  "top_trending_cats": [
+    {
+      "id": "86",
+      "title": "Women Clothing",
+      "subCategories": [
+        {
+          "category_id": "812",
+          "categories_name": "Designer Kurti",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/PRP4916.jpg",
+          "min_dis": "0",
+          "max_dis": "65"
+        },
+        {
+          "category_id": "1002",
+          "categories_name": "Womens Gown",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/PRP6845_11.jpg",
+          "min_dis": "10",
+          "max_dis": "65"
+        },
+        {
+          "category_id": "809",
+          "categories_name": "Women Sarees & Blouse",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/PRK4084_1.jpg",
+          "min_dis": "0",
+          "max_dis": "60"
+        },
+        {
+          "category_id": "810",
+          "categories_name": "Salwar Suit",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/5d9de2fc1fc881570628348.jpg",
+          "min_dis": "0",
+          "max_dis": "60"
+        },
+        {
+          "category_id": "82",
+          "categories_name": "Women Tops & Pants",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/women_tops_and_pants.jpg",
+          "min_dis": "0",
+          "max_dis": "60"
+        },
+        {
+          "category_id": "83",
+          "categories_name": "Indo Western Dresses",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/indo_western_dresses.jpg",
+          "min_dis": "0",
+          "max_dis": "35"
+        },
+        {
+          "category_id": "813",
+          "categories_name": "Women Plazzo",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/PRP3139-copy.gif",
+          "min_dis": "10",
+          "max_dis": "17"
+        },
+        {
+          "category_id": "814",
+          "categories_name": "Western Skirts",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/PRP3179-copy.gif",
+          "min_dis": "0",
+          "max_dis": "5"
+        }
+      ]
+    },
+    {
+      "id": "18",
+      "title": "Fashion Accessories ",
+      "subCategories": [
+        {
+          "category_id": "422",
+          "categories_name": "Necklace Set",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/ezgi_.jpg",
+          "min_dis": "0",
+          "max_dis": "60"
+        },
+        {
+          "category_id": "1015",
+          "categories_name": "Nose Ring",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/ring.jpg",
+          "min_dis": "10",
+          "max_dis": "60"
+        },
+        {
+          "category_id": "426",
+          "categories_name": "Bracelet",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/bracelate_.jpg",
+          "min_dis": "10",
+          "max_dis": "60"
+        },
+        {
+          "category_id": "419",
+          "categories_name": "Beautiful Bangles ",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/PRN5923-copy.gif",
+          "min_dis": "0",
+          "max_dis": "50"
+        },
+        {
+          "category_id": "420",
+          "categories_name": "Earrings",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/ezgi_fgfd.jpg",
+          "min_dis": "0",
+          "max_dis": "24"
+        },
+        {
+          "category_id": "421",
+          "categories_name": "Mangalsutra",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/mangal_.jpg",
+          "min_dis": "10",
+          "max_dis": "22"
+        },
+        {
+          "category_id": "423",
+          "categories_name": "Jewellery Accessories",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/artificial-jewellery.jpg",
+          "min_dis": "0",
+          "max_dis": "21"
+        },
+        {
+          "category_id": "424",
+          "categories_name": "Maang Tika",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/ezgiffb_.jpg",
+          "min_dis": "10",
+          "max_dis": "10"
+        }
+      ]
+    },
+    {
+      "id": "81",
+      "title": "Men Clothing",
+      "subCategories": [
+        {
+          "category_id": "755",
+          "categories_name": "Men Tshirts",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/02.jpg",
+          "min_dis": "5",
+          "max_dis": "60"
+        },
+        {
+          "category_id": "758",
+          "categories_name": "Men Jeans",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/5d9f1ca9e6b4e1570708649.jpg",
+          "min_dis": "0",
+          "max_dis": "60"
+        },
+        {
+          "category_id": "759",
+          "categories_name": "Men Formal Pants",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/5d88a9df3a01e1569237471.jpg",
+          "min_dis": "0",
+          "max_dis": "55"
+        },
+        {
+          "category_id": "772",
+          "categories_name": "Men Innerwear",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/5d8dfee6027bd1569586918.jpg",
+          "min_dis": "0",
+          "max_dis": "55"
+        },
+        {
+          "category_id": "1000",
+          "categories_name": "Mens Dhoti Kurta",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/5d84a5490ea2d1568974153.jpg",
+          "min_dis": "10",
+          "max_dis": "18"
+        },
+        {
+          "category_id": "1003",
+          "categories_name": "Modi Jacket",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/mj_-_Copy.jpg",
+          "min_dis": "10",
+          "max_dis": "18"
+        },
+        {
+          "category_id": "761",
+          "categories_name": "Men Shirts",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/IMG-20190722-WA0008.jpg",
+          "min_dis": "0",
+          "max_dis": "15"
+        },
+        {
+          "category_id": "1004",
+          "categories_name": "Kurta Payjama",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/kurta_payjama.jpg",
+          "min_dis": "0",
+          "max_dis": "10"
+        }
+      ]
+    },
+    {
+      "id": "23",
+      "title": "Consumer Electronics",
+      "subCategories": [
+        {
+          "category_id": "167",
+          "categories_name": "Earphone & Headphone",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/earphone.png",
+          "min_dis": "10",
+          "max_dis": "45"
+        },
+        {
+          "category_id": "172",
+          "categories_name": "Mobile Phone Accessories",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/mobacc.jpg",
+          "min_dis": "45",
+          "max_dis": "45"
+        },
+        {
+          "category_id": "171",
+          "categories_name": "Mobile Phones",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/mobiles.png",
+          "min_dis": "4",
+          "max_dis": "28"
+        },
+        {
+          "category_id": "166",
+          "categories_name": "Computer Hardware & Software",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/computer_hardware.png",
+          "min_dis": "0",
+          "max_dis": "20"
+        }
+      ]
+    },
+    {
+      "id": "24",
+      "title": "Home & Kitchen Appliances ",
+      "subCategories": [
+        {
+          "category_id": "1013",
+          "categories_name": "kitchen Accessories",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/Kitchen_Accessories.jpg",
+          "min_dis": "10",
+          "max_dis": "25"
+        },
+        {
+          "category_id": "1012",
+          "categories_name": "Lunch Box",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/LunchBox.jpg",
+          "min_dis": "10",
+          "max_dis": "25"
+        },
+        {
+          "category_id": "183",
+          "categories_name": "Serving Tray",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/_1234trey.jpg",
+          "min_dis": "10",
+          "max_dis": "22"
+        },
+        {
+          "category_id": "181",
+          "categories_name": "Cooking Accessories",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/Cooking-Accessories.jpg",
+          "min_dis": "15",
+          "max_dis": "20"
+        },
+        {
+          "category_id": "182",
+          "categories_name": "Water Purifier",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/_123water_purifier.jpg",
+          "min_dis": "15",
+          "max_dis": "20"
+        },
+        {
+          "category_id": "1009",
+          "categories_name": "Dry Fruit and Jewellery Box",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/5d88ef90eba3b1569255312.jpg",
+          "min_dis": "10",
+          "max_dis": "20"
+        },
+        {
+          "category_id": "180",
+          "categories_name": "Kitchen Chopper and Cutter",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/_1234Kitchen.jpg",
+          "min_dis": "0",
+          "max_dis": "18"
+        },
+        {
+          "category_id": "184",
+          "categories_name": "Storage & Containers",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/_1234StorageContainers.jpg",
+          "min_dis": "15",
+          "max_dis": "18"
+        }
+      ]
+    },
+    {
+      "id": "25",
+      "title": "Security & Protection",
+      "subCategories": [
+        {
+          "category_id": "203",
+          "categories_name": "Exit Switches",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/exitswitches.jpg",
+          "min_dis": "10",
+          "max_dis": "25"
+        },
+        {
+          "category_id": "194",
+          "categories_name": "Access Control Systems & Products",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/accesscontrolsystem.png",
+          "min_dis": "10",
+          "max_dis": "10"
+        },
+        {
+          "category_id": "196",
+          "categories_name": "CCTV Products",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/sequritycamera.png",
+          "min_dis": "0",
+          "max_dis": "10"
+        },
+        {
+          "category_id": "198",
+          "categories_name": "Locks & Keys",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/lockandkey.png",
+          "min_dis": "10",
+          "max_dis": "10"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "Bags & Cases",
+      "subCategories": [
+        {
+          "category_id": "142",
+          "categories_name": "Business Bags & Cases",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/buisness-bags-and-cases.png",
+          "min_dis": "10",
+          "max_dis": "27"
+        },
+        {
+          "category_id": "140",
+          "categories_name": "Jute Bags",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/Jute.jpg",
+          "min_dis": "0",
+          "max_dis": "18"
+        },
+        {
+          "category_id": "143",
+          "categories_name": "Handbags",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/hand-bags-and-messagner-bags.png",
+          "min_dis": "0",
+          "max_dis": "18"
+        },
+        {
+          "category_id": "139",
+          "categories_name": "Backpacks",
+          "categories_image": "https://atzcart.s3.ap-south-1.amazonaws.com/uploads/images/categories/bak-packs-.png",
+          "min_dis": "10",
+          "max_dis": "15"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ravi</string>
+    <string name="search_products_or_supplier">Search products or supplier..</string>
+    <string name="off">Upto %1$s \u0025 OFF</string>
+</resources>

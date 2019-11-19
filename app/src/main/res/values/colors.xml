@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FFE41C1C</color>
+    <color name="colorPrimaryDark">#E41C1C</color>
+    <color name="colorAccent">#e0e0e0</color>
+    <color name="ripple_blue">#FFE41C1C</color>
+
+    <!--colors for modern ui-->
+    <color name="whiteTextColor">#ffffff</color>
+    <color name="primaryTextColor">@color/colorPrimary</color>
+    <color name="loginBkColor">#f0f0f0</color>
+    <color name="colorEditText">#e0e0e0</color>
+
+    <!--colros for card-->
+    <color name="whiteCardColor">#ffffff</color>
+    <color name="colotTitle">#ffffff</color>
+    <color name="colorPink">#FFEBEE</color>
+
+</resources>
